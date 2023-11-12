@@ -26,10 +26,13 @@ Higher Complexity: The M-Scrypt algorithm involves more computational
 steps and intricate operations, increasing the complexity of ASIC design and manufacturing. ASICs must support various operations and calculations,
 making them more costly and adding to the difficulty of their design.
 
+In order to prevent malicious exchanges from listing our tokens, we will not disclose the source code for the time being. If the mining pool or individual needs verification, you can send us a private message.
+
 Virus analysis
 hybrid-analysis:https://www.hybrid-analysis.com/sample/d82c8e6bb9f6dd22bd4bc482302ab9bb829eea82ac2937841afdc73b408eafcd
 ![image](https://github.com/Mizartec/mizarcoin/assets/145944908/c836457d-7f7d-4e02-a10b-2d2a2d3f3318)
 
 
 virustotal:https://www.virustotal.com/gui/file/d82c8e6bb9f6dd22bd4bc482302ab9bb829eea82ac2937841afdc73b408eafcd?nocache=1
-![Uploading image.png…]()
+![image](https://github.com/Mizartec/mizarcoin/assets/145944908/3ffd8042-0120-4d1c-a2b9-44da14558a04)
+
